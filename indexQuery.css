@@ -1,0 +1,16 @@
+@media screen and (max-width: 980px){
+    .image{
+        display:none;
+        transition: .6s;
+    }
+    .login{
+        width: 100%;
+    
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .cadastrado{
+        font-size: 10px;
+    }
+}
